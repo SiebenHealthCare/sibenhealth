@@ -1,6 +1,6 @@
-import styles from "../style";
-import { discount, robot } from "../assets";
-import GetStarted from "./GetStarted";
+import styles from "../style.js";
+import { discount, robot } from "../assets/index.js";
+import GetStarted from "./GetStarted.js";
 
 const Hero = () => {
   return (

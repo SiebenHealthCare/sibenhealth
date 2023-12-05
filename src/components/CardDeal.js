@@ -1,6 +1,6 @@
-import { cardNew } from "../assets";
-import styles, { layout } from "../style";
-import Button from "./Button";
+import { cardNew } from "../assets/index.js";
+import styles, { layout } from "../style.js";
+import Button from "./Button.js";
 
 const CardDeal = () => (
   <section className={layout.section}>

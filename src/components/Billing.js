@@ -8,9 +8,9 @@ import {   cieumct,
   siebfor,
   Simonlc,
   Tbroc,
-  zious} from "../assets";
-import styles, { layout } from "../style";
-import Carousel from "./Carousel";
+  zious} from "../assets/index.js";
+import styles, { layout } from "../style.js";
+import Carousel from "./Carousel.js";
 
 const slides=[
   cieumct,

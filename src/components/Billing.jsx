@@ -3,7 +3,6 @@ import {   cieumct,
   Cqml,
   Evaroz,
   Nocrd,
-  productt,
   rigflex,
   SiebenGold,
   siebfor,
@@ -19,7 +18,6 @@ const slides=[
   Cqml,
   Evaroz,
   Nocrd,
-  productt,
   rigflex,
   SiebenGold,
   siebfor,
@@ -92,10 +90,7 @@ const Billing = () => (
         <li>
         Tab Zious
         </li>	
-        
-        <li>
-        Cholecalciferol SoftGel Capsules 60000UI
-        </li>	
+    
       </p>
 
 

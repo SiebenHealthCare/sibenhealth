@@ -36,11 +36,9 @@ import siebfor from "./siebfor.jpeg";
 import Simonlc from "./Simonlc.jpeg";
 import Tbroc from "./Tbroc.jpeg";
 import zious from "./zious.jpeg";
-import productt from "./productt.jpeg";
 
 export {
   airbnb,
-  productt,
   bill,
   binance,
   cardNew,
